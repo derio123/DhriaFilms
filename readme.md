@@ -2,9 +2,9 @@
    
 ## Aplicativo de filmes
 
-<div align='left'>
+<div **align**='left'>
   <div>
-    <img height='300px' width='auto' src='assets/img/Screenshot_1701364451.png'/>
+    <img height='300px' width='auto' src='assets/img/Screenshot_1701364451.png' alt="Tela de filmes"/>
   </div>
 </div>
 
@@ -17,9 +17,9 @@
 
 - Versão 1.0 - Apenas integração com API.
 
-### Para instalar o projeto veja algumas orientações abaixos:
+### Para utilizar o projeto veja algumas orientações abaixos:
 
- - Precisa instalar o nodejs lts `16.20.2``:
+ - Precisa instalar o nodejs lts `16.20.2`:
     baixe nodejs: https://nodejs.org/en/
 
  - Logo após ter instalado, digite no terminal ou cmd:
